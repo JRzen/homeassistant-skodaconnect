@@ -36,7 +36,8 @@ Possible workarounds:
 - Open the MySkoda app on an Android device and it should present an EULA or new terms and conditions to be accepted.
 - Log in through a web browser (https://www.skoda-connect.com/)
 
-If this does not work for you and the particular problem you are facing, please open an issue and provide as detailed problem description as possible and relevant debug logs.
+If none of these work for you and the particular problem you are facing, please open an issue and provide as detailed problem description as possible and relevant debug logs.
+In particular just trying through the web browser is likely to be insufficient (but it's so easy it's still worth a try).
 
 ### What is working, all cars
 
